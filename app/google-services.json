@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "2113427665",
+    "firebase_url": "https://alittle-coffee.firebaseio.com",
+    "project_id": "alittle-coffee",
+    "storage_bucket": "alittle-coffee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2113427665:android:f3317d40e5a0b38f",
+        "android_client_info": {
+          "package_name": "com.example.littlecafeshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2113427665-6psj3svj8qid06pjighqr3cs68akf2cs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.littlecafeshop",
+            "certificate_hash": "cab64d426dec7e84e4bbf2dabe76bdb72ba3bf6c"
+          }
+        },
+        {
+          "client_id": "2113427665-9rh8ghvuabi9bhl78qrtgu85i8qjiqde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdV0N6WmOKsyYP6JG-r8psGlRH14F5aww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2113427665-9rh8ghvuabi9bhl78qrtgu85i8qjiqde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

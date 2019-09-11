@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="facebook_app_id">2350954245223805</string>
+    <string name="fb_login_protocol_scheme">fb2350954245223805</string>
+    <string name="title_activity_home__activity">Home_Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home_">Home_Activity</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="home">Home</string>
+    <string name="menu">Menu</string>
+    <string name="favorite">Favorite</string>
+    <string name="shop">Shop</string>
+    <string name="profile">Profile</string>
+    <string name="setting">Setting</string>
+    <string name="logout">Log Out</string>
+</resources>
