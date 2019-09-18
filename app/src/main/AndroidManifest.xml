@@ -6,9 +6,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/launcher_icon"
+        android:icon="@drawable/cup1_launcher"
         android:label="Little Coffee Shop"
-        android:roundIcon="@drawable/launcher_icon"
+        android:roundIcon="@drawable/cup1_launcher"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
